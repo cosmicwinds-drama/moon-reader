@@ -1,0 +1,9 @@
+{
+  "name": "folio-server",
+  "version": "2.0.0",
+  "description": "Folio chat backend",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "dependencies": { "ws": "^8.16.0" },
+  "engines": { "node": ">=18" }
+}
